@@ -1,0 +1,145 @@
+.header {
+	width: 1000px;
+	height: 250px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: rgb(192,192,192);
+}
+
+.header-top {
+	width: 1000px;
+	height: 120px;
+	background-color: silver;
+}
+
+.container {
+	width: 1000px;
+	height: 100px;
+	margin-left: auto;
+	margin-right: auto;
+	background-color: #808080;
+}
+
+.logo { 
+	float: left;
+	padding: 5px 10px;
+	display: block;
+}
+
+.phone {
+	float: right;
+	display: block;
+	margin-top: 1%;
+	margin-right: 1%;
+	height: 80px;
+	width: 120px;
+	text-align: right;
+	background-color: red;
+}
+
+.header-bottom {
+	width: 1000px;
+	height: 70px;
+	background-color: silver;
+}
+
+
+.navbar {
+	display: block;
+	height: 50px;
+	width: 1000px
+	color: #fff;
+	text-align: center;
+	background-color: #899999;
+	list-style: none;
+}
+
+.navbar li {
+	display: inline-block;
+	padding: 10px 10px;
+	background-color: red;
+	color: #fff;
+}
+
+.main {
+	width: 1000px;
+	height: 1500px;
+	margin-left: auto;
+	margin-right: auto;
+
+	background-color: rgb(255,0,255);
+}
+
+.breadcrumb {
+	display: block;
+	height: 50px;
+	width: 1000px
+	text-align: left;
+	background-color: #808080;
+}
+
+.breadcrumb li {
+	display: inline-block;	
+	padding: 10px 10px;
+	background-color: rgb(128,128,0);
+	color: black;
+}
+
+.content {
+	display: block;
+	float: left;
+	width: 600px;
+	padding: 10px 10px;
+	background-color: yellow;
+}
+
+.content li a {
+	margin: 5px;
+	background-color: red;
+	color: #fff;
+
+}
+
+.list-photos {
+
+	display: block;
+}
+
+.list-photos li {
+	display: inline-block;	
+	padding: 10px 10px;
+	background-color: rgb(128,128,0);
+}
+
+.table {
+	height: 50px;
+	width: 600px;
+	background-color: rgb(128,0,0);
+}
+
+.tab {
+	height: 50px;
+	width: 600px;
+	background-color: green;
+}
+
+.sidebar {
+	display: block;
+	float: right;
+	width: 350px;
+	background-color:rgb(0,255,255);
+}
+
+.news {
+	display: block;
+	padding: 10px: 10px; 
+	background-color: green;
+}
+
+.form {
+	display: block;
+	height: 50px;
+	background-color: rgb(0,0,255);
+	text-align: right;
+	color: #fff;
+}
